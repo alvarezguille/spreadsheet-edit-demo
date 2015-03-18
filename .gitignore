@@ -3,6 +3,7 @@
 .project
 .settings/
 target
+src/main/webapp/VAADIN/themes/mytheme/styles.scss.cache
 
 *.class
 

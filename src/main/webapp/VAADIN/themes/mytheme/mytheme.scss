@@ -31,6 +31,8 @@
 
 @mixin mytheme {
   @include valo;
-
+  .v-upload .v-button {
+    text-align: center;
+  }
   // Insert your own theme rules here
 }
